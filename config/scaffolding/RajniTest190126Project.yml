@@ -12,6 +12,11 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: Rajni25Aug
   gitBranch: main
+- name: SIQAJDBCAdapterTests
+  gitServerName: KusiVCAccount
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: Rajni25Aug
+  gitBranch: main
 services:
 - serviceName: project.rajnitest190126.integrations:Sum
   packages:
