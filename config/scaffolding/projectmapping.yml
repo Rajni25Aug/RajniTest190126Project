@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: RajniTest190126Project
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: callSumFSWorkflow
+    type: workflow
+    uid: fl3321410ce47c4d5a8c4d6b4d8dc887dc
+    stepId: a0
+    reference: project.rajnitest190126.integrations:Sum
