@@ -14,17 +14,18 @@
     <value name="SIQAJDBCAdapterTests">1.0</value>
     <value name="DADA_GlobalVariable1">1.0</value>
     <value name="SIQA_TimeoutTest">1.0</value>
+    <value name="WmSalesforceRESTProvider">12.0.0.0.4</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">16</value>
+  <value name="build">17</value>
   <null name="description"/>
   <value name="created_date">19-01-2026 05:46:10 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <Boolean name="isProjectPackage">false</Boolean>
-  <value name="lastUpdated">2026-01-19T08:25:14.078723067Z</value>
+  <value name="lastUpdated">2026-01-19T08:25:32.446155437Z</value>
   <value name="wmProjectId">fl553b059d58e440beb7ad47197cb53071</value>
   <value name="creator">Kumari Rajni Singh</value>
 </Values>
