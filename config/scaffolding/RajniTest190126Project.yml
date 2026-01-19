@@ -7,6 +7,39 @@ packages:
   gitUrl: https://github.com/Rajni25Aug
   gitUsername: Rajni25Aug
   gitBranch: main
+services:
+- serviceName: project.rajnitest190126.integrations:Sum
+  packages:
+  - name: RajniTest190126Project
+    version: "1.0"
+- serviceName: pub.math:addInts
+  packages:
+  - name: WmPublic
+    version: 12.0.0.0.698
+- serviceName: pub.flow:debugLog
+  packages:
+  - name: WmPublic
+    version: 12.0.0.0.698
+- serviceName: project.rajnitest190126.integrations:deepclonetest
+  packages:
+  - name: RajniTest190126Project
+    version: "1.0"
+- serviceName: pub.string:stringToBytes
+  packages:
+  - name: WmPublic
+    version: 12.0.0.0.698
+- serviceName: pub.utils:deepClone
+  packages:
+  - name: WmPublic
+    version: 12.0.0.0.698
+- serviceName: pub.string:bytesToString
+  packages:
+  - name: WmPublic
+    version: 12.0.0.0.698
+- serviceName: pub.alert:emit
+  packages:
+  - name: WmPublic
+    version: 12.0.0.0.698
 configurationVariables:
   jdbc.Embedded-Database-Pool.waitingThread: "0"
   jdbcfunc.ISDashboardStats.failFastMode: false
