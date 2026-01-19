@@ -22,6 +22,11 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: Rajni25Aug
   gitBranch: gv25var
+- name: SIQA_TimeoutTest
+  gitServerName: KusiVCAccount
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: Rajni25Aug
+  gitBranch: main
 services:
 - serviceName: project.rajnitest190126.integrations:Sum
   packages:
