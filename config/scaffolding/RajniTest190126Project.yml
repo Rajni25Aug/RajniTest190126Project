@@ -17,6 +17,11 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: Rajni25Aug
   gitBranch: main
+- name: DADA_GlobalVariable1
+  gitServerName: KusiVCAccount
+  gitUrl: https://github.com/manoj-jannu-IBM
+  gitUsername: Rajni25Aug
+  gitBranch: gv25var
 services:
 - serviceName: project.rajnitest190126.integrations:Sum
   packages:
