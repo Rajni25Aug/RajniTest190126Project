@@ -8,3 +8,10 @@ runtimes:
     uid: fl3321410ce47c4d5a8c4d6b4d8dc887dc
     stepId: a0
     reference: project.rajnitest190126.integrations:Sum
+- runtimeAlias: SiqaTest1901Kusi
+  assets:
+  - name: Untitled Workflow
+    type: workflow
+    uid: fl6ba624cc4fdf4cda98ebc19321931e66
+    stepId: a0
+    reference: project.rajnitest190126.integrations:Sum
